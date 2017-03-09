@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #ccffff;
+}
+
+img {
+  margin: 0px 100px 0px 150px;
+  border-radius: 5%;
+}
+
+img.centered {
+  margin: 0% 25% 0% 25%;
+  border-radius: 5%;
+}

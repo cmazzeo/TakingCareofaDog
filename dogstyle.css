@@ -1,0 +1,19 @@
+
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #ccffff;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  border-radius: 5%;
+}
+
+img.centered {
+  margin: 0% 25% 0% 25%;
+}
